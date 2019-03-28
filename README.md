@@ -1,6 +1,7 @@
 
 # notebooks
 A library of notebooks illustrating use cases for analysis of LiPD files in Python.
+
 Browse it from Binder:
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/LinkedEarth/notebooks/master)
 
