@@ -3,10 +3,10 @@ A library of notebooks illustrating use cases for analysis of LiPD files in Pyth
 
 ## Additional packages being used
 Several additional packages being used in these notebooks:
-+ [pyleoclim](https://github.com/LinkedEarth/Pyleoclim_util): `pip install pyleoclim`
-+ [p2k](https://github.com/fzhu2e/p2k): `pip install p2k`
-+ [pathos](https://github.com/uqfoundation/pathos): `pip install pathos`
-+ [tqdm](https://github.com/tqdm/tqdm): `pip install tqdm`
++ [pyleoclim](https://github.com/LinkedEarth/Pyleoclim_util): Python Package for the Analysis of Paleoclimate Data (`pip install pyleoclim`)
++ [p2k](https://github.com/fzhu2e/p2k): A collection of functions used for PAGES2k dataset analysis (`pip install p2k`)
++ [pathos](https://github.com/uqfoundation/pathos): Parallel graph management and execution in heterogeneous computing (`pip install pathos`)
++ [tqdm](https://github.com/tqdm/tqdm): A fast, extensible progress bar for Python and CLI (`pip install tqdm`)
 
 Most of the essential functions are explicitly written in the notebooks, except
 for the function to create composites due to its complexity, which is directly
