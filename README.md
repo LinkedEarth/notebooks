@@ -1,12 +1,8 @@
-
 # notebooks
 A library of notebooks illustrating use cases for analysis of LiPD files in Python.
 
-Browse it from Binder:
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/LinkedEarth/notebooks/master)
-
 ## Additional packages being used
-Several additional packages being used in these notebooks:
+Several additional packages are used in these notebooks:
 + [pyleoclim](https://github.com/LinkedEarth/Pyleoclim_util): Python Package for the Analysis of Paleoclimate Data (`pip install pyleoclim`)
 + [p2k](https://github.com/fzhu2e/p2k): A collection of functions used for PAGES2k dataset analysis (`pip install p2k`)
 + [pathos](https://github.com/uqfoundation/pathos): Parallel graph management and execution in heterogeneous computing (`pip install pathos`)
@@ -17,7 +13,7 @@ for the function to create composites due to its complexity, which is directly
 imported from [p2k](https://github.com/fzhu2e/p2k).
 For more related functionalities, please see [p2k](https://github.com/fzhu2e/p2k).
 
-## Datasets being used
+## Datasets
 + The PAGES2k dataset ([PAGES2k Consortium, 2017](https://www.nature.com/articles/sdata201788)): [download from figshare](https://ndownloader.figshare.com/files/8119937)
 + HadCRUT4 ([Morice CP, Kennedy JJ, Rayner NA, Jones PD, 2012](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011JD017187)): [download from MetOffice](https://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/gridded_fields/HadCRUT.4.6.0.0.median_netcdf.zip)
 
